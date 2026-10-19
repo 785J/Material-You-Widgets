@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Light theme: black icon on white background -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    
+    <!-- Outer badge shape -->
+    <path
+        android:strokeWidth="1.5"
+        android:pathData="M35.803,40.286c-4.226,0.37 -4.192,5.863 -9.725,3.72c-3.844,-1.793 -6.561,2.981 -10.28,-1.642c-2.434,-3.474 -7.174,-0.698 -8.084,-6.561c-0.37,-4.226 -5.863,-4.192 -3.72,-9.725c1.793,-3.844 -2.981,-6.561 1.642,-10.28c3.474,-2.434 0.698,-7.174 6.562,-8.084c4.225,-0.37 4.191,-5.863 9.724,-3.72c3.844,1.793 6.561,-2.981 10.28,1.642c2.434,3.474 7.174,0.698 8.084,6.562c0.37,4.225 5.863,4.191 3.72,9.724c-1.793,3.844 2.981,6.561 -1.642,10.28c-3.474,2.434 -0.698,7.174 -6.561,8.084"
+        android:strokeColor="#000000"
+        android:fillColor="#00000000"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+    
+    <!-- Circle (top right) -->
+    <path
+        android:strokeWidth="1.5"
+        android:pathData="M31.273,13.38a5.5,5.5 0,1 0,0 11a5.5,5.5 0,1 0,0 -11"
+        android:strokeColor="#000000"
+        android:fillColor="#00000000"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+    
+    <!-- Rounded rectangle (top left) -->
+    <path
+        android:strokeWidth="1.5"
+        android:pathData="M14.227,13.38h8c1.657,0 3,1.343 3,3v8c0,1.657 -1.343,3 -3,3h-8c-1.657,0 -3,-1.343 -3,-3v-8c0,-1.657 1.343,-3 3,-3z"
+        android:strokeColor="#000000"
+        android:fillColor="#00000000"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+    
+    <!-- Download arrow (bottom left) -->
+    <path
+        android:strokeWidth="1.5"
+        android:pathData="M18.124,27.839l-2.812,3.281l-2.812,-3.281"
+        android:strokeColor="#000000"
+        android:fillColor="#00000000"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+    <path
+        android:strokeWidth="1.5"
+        android:pathData="M15.312,34.401V31.12"
+        android:strokeColor="#000000"
+        android:fillColor="#00000000"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+    
+    <!-- Circle with dot (bottom middle) -->
+    <path
+        android:strokeWidth="1.5"
+        android:pathData="M23.689,27.839a3.281,3.281 0,1 0,0 6.562a3.281,3.281 0,1 0,0 -6.562"
+        android:strokeColor="#000000"
+        android:fillColor="#00000000"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+    
+    <!-- U shape (bottom right) -->
+    <path
+        android:strokeWidth="1.5"
+        android:pathData="M29.876,27.839v3.75a2.812,2.812 0,0 0,5.624 0v-3.75"
+        android:strokeColor="#000000"
+        android:fillColor="#00000000"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+</vector>

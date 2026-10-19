@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Circular ripple effect for cookies -->
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="#1AFFFFFF">
+    <!-- Mask defines the shape of the ripple -->
+    <item android:id="@android:id/mask">
+        <shape android:shape="oval">
+            <solid android:color="#FFFFFFFF" />
+        </shape>
+    </item>
+</ripple>

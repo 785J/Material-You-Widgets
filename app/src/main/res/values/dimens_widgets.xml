@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 
+        Widget Dimensions - Modular Organization
+        Reusable dimensions for consistent widget sizing
+    -->
+    
+    <!-- ═══════════════════════════════════════ -->
+    <!--          WIDGET CELL SIZES              -->
+    <!-- ═══════════════════════════════════════ -->
+    
+    <!-- Standard widget cell dimensions (approx 70dp per cell) -->
+    <dimen name="widget_cell_size">70dp</dimen>
+    
+    <!-- Small Widget (2x2) -->
+    <dimen name="widget_small_min_width">110dp</dimen>
+    <dimen name="widget_small_min_height">110dp</dimen>
+    <dimen name="widget_small_target_cell_width">2</dimen>
+    <dimen name="widget_small_target_cell_height">2</dimen>
+    
+    <!-- Medium Widget (4x2) -->
+    <dimen name="widget_medium_min_width">250dp</dimen>
+    <dimen name="widget_medium_min_height">110dp</dimen>
+    <dimen name="widget_medium_target_cell_width">4</dimen>
+    <dimen name="widget_medium_target_cell_height">2</dimen>
+    
+    <!-- Large Widget (4x4) -->
+    <dimen name="widget_large_min_width">250dp</dimen>
+    <dimen name="widget_large_min_height">250dp</dimen>
+    <dimen name="widget_large_target_cell_width">4</dimen>
+    <dimen name="widget_large_target_cell_height">4</dimen>
+    
+    <!-- Extra Large Widget (5x4) -->
+    <dimen name="widget_xlarge_min_width">320dp</dimen>
+    <dimen name="widget_xlarge_min_height">250dp</dimen>
+    <dimen name="widget_xlarge_target_cell_width">5</dimen>
+    <dimen name="widget_xlarge_target_cell_height">4</dimen>
+    
+    <!-- Sound Profile Widget (3x1) -->
+    <dimen name="widget_soundprofile_min_width">180dp</dimen>
+    <dimen name="widget_soundprofile_min_height">80dp</dimen>
+    
+    <!-- ═══════════════════════════════════════ -->
+    <!--          WIDGET PADDING                 -->
+    <!-- ═══════════════════════════════════════ -->
+    
+    <dimen name="widget_padding_small">8dp</dimen>
+    <dimen name="widget_padding_medium">12dp</dimen>
+    <dimen name="widget_padding_large">16dp</dimen>
+    <dimen name="widget_padding_xlarge">20dp</dimen>
+    
+    <!-- ═══════════════════════════════════════ -->
+    <!--          WIDGET CORNER RADIUS           -->
+    <!-- ═══════════════════════════════════════ -->
+    
+    <dimen name="widget_corner_radius_default">28dp</dimen>
+    <dimen name="widget_corner_radius_small">16dp</dimen>
+    <dimen name="widget_corner_radius_large">32dp</dimen>
+    <dimen name="widget_corner_radius_pill">40dp</dimen>
+    
+    <!-- ═══════════════════════════════════════ -->
+    <!--          WIDGET SPACING                 -->
+    <!-- ═══════════════════════════════════════ -->
+    
+    <dimen name="widget_spacing_tiny">2dp</dimen>
+    <dimen name="widget_spacing_small">4dp</dimen>
+    <dimen name="widget_spacing_medium">8dp</dimen>
+    <dimen name="widget_spacing_large">12dp</dimen>
+    <dimen name="widget_spacing_xlarge">16dp</dimen>
+    
+    <!-- ═══════════════════════════════════════ -->
+    <!--          WIDGET ICON SIZES              -->
+    <!-- ═══════════════════════════════════════ -->
+    
+    <dimen name="widget_icon_size_small">20dp</dimen>
+    <dimen name="widget_icon_size_medium">24dp</dimen>
+    <dimen name="widget_icon_size_large">28dp</dimen>
+    <dimen name="widget_icon_size_xlarge">32dp</dimen>
+    
+    <!-- ═══════════════════════════════════════ -->
+    <!--          WIDGET TEXT SIZES              -->
+    <!-- ═══════════════════════════════════════ -->
+    
+    <dimen name="widget_text_size_tiny">10sp</dimen>
+    <dimen name="widget_text_size_small">12sp</dimen>
+    <dimen name="widget_text_size_medium">14sp</dimen>
+    <dimen name="widget_text_size_large">18sp</dimen>
+    <dimen name="widget_text_size_xlarge">24sp</dimen>
+    <dimen name="widget_text_size_huge">48sp</dimen>
+    <dimen name="widget_text_size_massive">56sp</dimen>
+</resources>

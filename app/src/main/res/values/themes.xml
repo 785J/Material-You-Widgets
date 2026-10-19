@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <!-- Theme-aware background for splash screen -->
+        <item name="windowSplashScreenBackground">@color/splash_background</item>
+        <item name="windowSplashScreenIconBackgroundColor">@android:color/transparent</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/app_icon_inset</item>
+        <item name="postSplashScreenTheme">@android:style/Theme.Material.NoActionBar</item>
+        
+        <!-- Minimize splash screen animation duration for instant feel -->
+        <item name="windowSplashScreenAnimationDuration">0</item>
+    </style>
+
+    <!-- Widget theme with shaped ripple effects -->
+    <style name="Theme.Widget.NoRipple" parent="android:Theme.DeviceDefault">
+        <!-- Use shaped ripple drawable (pill shape for control widgets) -->
+        <item name="android:selectableItemBackground">@drawable/ripple_pill</item>
+        <item name="android:selectableItemBackgroundBorderless">@drawable/ripple_pill</item>
+        <item name="colorControlNormal">#888888</item>
+    </style>
+    
+    <!-- Widget theme with circular ripple (for cookies) -->
+    <style name="Theme.Widget.CircleRipple" parent="android:Theme.DeviceDefault">
+        <!-- Use circular ripple drawable -->
+        <item name="android:selectableItemBackground">@drawable/ripple_circle</item>
+        <item name="android:selectableItemBackgroundBorderless">@drawable/ripple_circle</item>
+        <item name="colorControlNormal">#888888</item>
+    </style>
+</resources>

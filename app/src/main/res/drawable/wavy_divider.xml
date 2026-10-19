@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="6dp"
+    android:height="120dp"
+    android:viewportWidth="6"
+    android:viewportHeight="120">
+    
+    <!-- Vertical wavy line with more waves (tighter frequency) -->
+    <path
+        android:pathData="M3,0 Q0,3 3,6 Q6,9 3,12 Q0,15 3,18 Q6,21 3,24 Q0,27 3,30 Q6,33 3,36 Q0,39 3,42 Q6,45 3,48 Q0,51 3,54 Q6,57 3,60 Q0,63 3,66 Q6,69 3,72 Q0,75 3,78 Q6,81 3,84 Q0,87 3,90 Q6,93 3,96 Q0,99 3,102 Q6,105 3,108 Q0,111 3,114 Q6,117 3,120"
+        android:strokeWidth="2.5"
+        android:strokeColor="#888888"
+        android:fillColor="@android:color/transparent"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+</vector>

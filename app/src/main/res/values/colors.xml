@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- White background for light theme launcher icon -->
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="launcher_background">#FFFFFF</color>
+    
+    <!-- Light background for splash screen -->
+    <color name="splash_background">#FFFFFF</color>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 
+        Widget Strings - Modular Organization
+        Separated by widget type for better maintainability
+    -->
+    
+    <!-- ═══════════════════════════════════════ -->
+    <!--          CALENDAR WIDGETS               -->
+    <!-- ═══════════════════════════════════════ -->
+    
+    <!-- Medium Calendar Widget (4x2) -->
+    <string name="widget_calendar_medium_description">Monthly calendar grid</string>
+    <string name="widget_calendar_medium_label">Calendar (Medium)</string>
+    
+    <!-- Large Calendar Widget (4x4) -->
+    <string name="widget_calendar_large_description">Full calendar with events</string>
+    <string name="widget_calendar_large_label">Calendar (Large)</string>
+    
+    <!-- ═══════════════════════════════════════ -->
+    <!--          CONTROL WIDGETS                -->
+    <!-- ═══════════════════════════════════════ -->
+    
+    <!-- Torch Widget (2x2, Pill shape) -->
+    <string name="widget_torch_description">Flashlight control</string>
+    <string name="widget_torch_label">Torch</string>
+    
+    <!-- DND Widget (2x2, Pill shape) -->
+    <string name="widget_dnd_description">Do Not Disturb toggle</string>
+    <string name="widget_dnd_label">DND</string>
+    
+    <!-- Sound Profile Widget (3x1) -->
+    <string name="widget_sound_profile_description">Cycle Silent → Vibrate → Sound</string>
+    <string name="widget_sound_profile_label">Sound Profile</string>
+</resources>

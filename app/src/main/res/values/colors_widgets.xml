@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 
+        Widget Colors - Modular Organization
+        Reusable color definitions for widgets
+        Note: Most colors use Material You dynamic theming
+    -->
+    
+    <!-- ═══════════════════════════════════════ -->
+    <!--          FALLBACK COLORS                -->
+    <!--   (For devices < Android 12)            -->
+    <!-- ═══════════════════════════════════════ -->
+    
+    <!-- Primary Colors (fallback) -->
+    <color name="widget_primary_fallback">#66BB6A</color>
+    <color name="widget_primary_container_fallback">#81C784</color>
+    <color name="widget_on_primary_fallback">#FFFFFF</color>
+    
+    <!-- Surface Colors (fallback) -->
+    <color name="widget_surface_light_fallback">#FEFBFF</color>
+    <color name="widget_surface_dark_fallback">#1C1B1F</color>
+    <color name="widget_surface_container_light_fallback">#F3EDF7</color>
+    <color name="widget_surface_container_dark_fallback">#2D2D2D</color>
+    
+    <!-- Text Colors (fallback) -->
+    <color name="widget_text_light_fallback">#1C1B1F</color>
+    <color name="widget_text_dark_fallback">#E6E1E5</color>
+    <color name="widget_text_variant_light_fallback">#49454F</color>
+    <color name="widget_text_variant_dark_fallback">#C9C5CA</color>
+    
+    <!-- Error Colors (fallback) -->
+    <color name="widget_error_fallback">#BA1A1A</color>
+    <color name="widget_error_container_fallback">#FFDAD6</color>
+    <color name="widget_on_error_fallback">#FFFFFF</color>
+    
+    <!-- ═══════════════════════════════════════ -->
+    <!--          WIDGET STATE COLORS            -->
+    <!-- ═══════════════════════════════════════ -->
+    
+    <!-- Active/On State (for toggle widgets) -->
+    <color name="widget_active_light">#81C784</color>
+    <color name="widget_active_dark">#66BB6A</color>
+    
+    <!-- Inactive/Off State (for toggle widgets) -->
+    <color name="widget_inactive_light">#E0E0E0</color>
+    <color name="widget_inactive_dark">#424242</color>
+    
+    <!-- ═══════════════════════════════════════ -->
+    <!--          TRANSPARENCY LEVELS            -->
+    <!-- ═══════════════════════════════════════ -->
+    
+    <color name="widget_transparent">#00000000</color>
+    <color name="widget_overlay_10">#1A000000</color>
+    <color name="widget_overlay_20">#33000000</color>
+    <color name="widget_overlay_30">#4D000000</color>
+    <color name="widget_overlay_40">#66000000</color>
+    <color name="widget_overlay_50">#80000000</color>
+    
+    <!-- ═══════════════════════════════════════ -->
+    <!--          SPECIAL WIDGET COLORS          -->
+    <!-- ═══════════════════════════════════════ -->
+    
+    <!-- Calendar Month Banner (use error colors) -->
+    <color name="widget_calendar_month_banner">#FFCDD2</color>
+    <color name="widget_calendar_month_text">#C62828</color>
+    
+</resources>

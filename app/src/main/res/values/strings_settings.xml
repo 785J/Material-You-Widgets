@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 
+        Settings Strings - Modular Organization
+        Separated by settings category
+    -->
+    
+    <!-- ═══════════════════════════════════════ -->
+    <!--          CALENDAR SETTINGS              -->
+    <!-- ═══════════════════════════════════════ -->
+    
+    <string name="settings_calendar_title">Calendar Settings</string>
+    <string name="settings_calendar_sync">Calendar Sync</string>
+    <string name="settings_calendar_sync_desc">Sync calendar events to widgets</string>
+    <string name="settings_calendar_select">Select Calendars</string>
+    <string name="settings_calendar_select_desc">Choose which calendars to display</string>
+    <string name="settings_calendar_refresh">Refresh Interval</string>
+    <string name="settings_calendar_refresh_desc">How often to update events</string>
+    <string name="settings_calendar_permission">Calendar Permission</string>
+    <string name="settings_calendar_permission_desc">Required to show events</string>
+    
+    <!-- ═══════════════════════════════════════ -->
+    <!--          WIDGET APPEARANCE              -->
+    <!-- ═══════════════════════════════════════ -->
+    
+    <string name="settings_appearance_title">Widget Appearance</string>
+    <string name="settings_appearance_corner_radius">Corner Radius</string>
+    <string name="settings_appearance_corner_radius_desc">Widget corner roundness</string>
+    <string name="settings_appearance_opacity">Opacity</string>
+    <string name="settings_appearance_opacity_desc">Widget background transparency</string>
+    <string name="settings_appearance_use_dynamic_colors">Use Dynamic Colors</string>
+    <string name="settings_appearance_use_dynamic_colors_desc">Match system theme colors</string>
+    <string name="settings_appearance_pure_black">Pure Black Mode</string>
+    <string name="settings_appearance_pure_black_desc">For OLED screens</string>
+    
+    <!-- ═══════════════════════════════════════ -->
+    <!--          COMMON ACTIONS                 -->
+    <!-- ═══════════════════════════════════════ -->
+    
+    <string name="action_grant_permission">Grant Permission</string>
+    <string name="action_permission_granted">Permission Granted</string>
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_reset">Reset</string>
+    <string name="action_apply">Apply</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="4dp"
+    android:height="100dp"
+    android:viewportWidth="4"
+    android:viewportHeight="100">
+    
+    <!-- Wavy line path -->
+    <path
+        android:pathData="M2,0 Q0,5 2,10 Q4,15 2,20 Q0,25 2,30 Q4,35 2,40 Q0,45 2,50 Q4,55 2,60 Q0,65 2,70 Q4,75 2,80 Q0,85 2,90 Q4,95 2,100"
+        android:strokeWidth="1.5"
+        android:strokeColor="#88888888"
+        android:fillColor="@android:color/transparent"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+</vector>

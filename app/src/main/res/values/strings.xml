@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YOU</string>
+    
+    <!-- Widget Descriptions -->
+    <string name="small_calendar_widget_description">Small Calendar Widget - Date card with event count</string>
+    <string name="medium_calendar_widget_description">Medium Calendar Widget - Monthly calendar grid view</string>
+    <string name="large_calendar_widget_description">Large Calendar Widget - Full calendar with events</string>
+    <string name="battery_widget_description">Battery - Level with color fill indicator (2x2)</string>
+    <string name="watch_time_widget_description">Away Time - How long since you last used your phone</string>
+    <string name="year_progress_widget_description">Year Progress - GitHub-style heatmap of completed days</string>
+    <string name="shape_clock_widget_description">Shape Clock - Material You styled digital clock (2x2)</string>
+    
+    <!-- Control Widgets with Real Shapes -->
+    <string name="heart_favorites_widget_description">Heart Favorites - Track your favorites (REAL Heart Shape)</string>
+    
+    <!-- Calendar Detail Screen -->
+    <string name="calendar_detail_title">Calendar Settings</string>
+    <string name="calendar_sync">Calendar Sync</string>
+    <string name="calendar_sync_desc">Sync calendar events to widgets</string>
+    <string name="select_calendars">Select Calendars</string>
+    <string name="select_calendars_desc">Choose which calendars to display</string>
+    <string name="refresh_interval">Refresh Interval</string>
+    <string name="refresh_interval_desc">How often to update events</string>
+    <string name="calendar_permission">Calendar Permission</string>
+    <string name="calendar_permission_desc">Required to show events</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="permission_granted">Permission Granted</string>
+</resources>

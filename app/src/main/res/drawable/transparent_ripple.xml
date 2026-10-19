@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Transparent ripple - completely invisible click feedback -->
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="#00000000">
+    <item android:id="@android:id/mask">
+        <color android:color="#00000000" />
+    </item>
+</ripple>
